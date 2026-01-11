@@ -1,4 +1,5 @@
 # Hi there! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=lokifr&color=blueviolet&style=flat-square)
 
 I'm **Lokesh**, a BCA student passionate about **AWS** and **DevOps**. I spend my time building 
 cloud infrastructures, automating deployments, and learning everything I can about containers 
@@ -40,11 +41,6 @@ and orchestration.
 - 🎸 Playing guitar  
 - 🎬 Watching anime → **[MyAnimeList watch list](https://myanimelist.net/profile/Otaku_Loki)**
 
----
-
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
-</p>
 
 ---
 
