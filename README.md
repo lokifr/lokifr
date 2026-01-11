@@ -44,8 +44,4 @@ and orchestration.
 
 ---
 
-![snake gif](https://github.com/lokifr/lokifr/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <p align="center">✨ <i>Always learning. Always building.</i> ✨</p>
