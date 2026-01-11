@@ -43,5 +43,8 @@ and orchestration.
 
 
 ---
+## Watch snake eating my contributions
+![snake gif](https://github.com/lokifr/lokifr/blob/output/github-contribution-grid-snake-dark.svg)
 
+---
 <p align="center">✨ <i>Always learning. Always building.</i> ✨</p>
