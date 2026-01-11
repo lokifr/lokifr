@@ -44,7 +44,7 @@ and orchestration.
 
 ---
 
-![snake gif](https://github.com/YOUR_USERNAME/lokifr/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/lokifr/lokifr/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
