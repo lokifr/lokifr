@@ -11,6 +11,7 @@ and orchestration.
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=FF9900) 
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ### 🔧 DevOps & Automation
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes) ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins) ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=7B42BC) ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible&logoColor=EE0000) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
