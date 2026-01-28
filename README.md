@@ -10,13 +10,24 @@ and orchestration.
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws&logoColor=FF9900) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonwebservices&logoColor=FF9900) 
 ### 🔧 DevOps & Automation
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes) ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins) ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform&logoColor=7B42BC) ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible&logoColor=EE0000) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
+### 🔐 Security & Code Quality
+![SonarQube](https://img.shields.io/badge/-SonarQube-05122A?style=flat&logo=sonarqubeserver&logoColor=4E9BCD) 
+![Trivy](https://img.shields.io/badge/-Trivy-05122A?style=flat&logo=trivy&logoColor=1904DA)
+
 ### 📊 Monitoring
-![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus) ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana&logoColor=F46800) ![Nagios](https://img.shields.io/badge/-Nagios-05122A?style=flat&logo=nagios)
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus) ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana&logoColor=F46800) ![Nagios](https://img.shields.io/badge/-Nagios-05122A?style=flat&logo=nagios&logoColor=000000)
+
+### 🎯 Project Management
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira&logoColor=0052CC)
+
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=007396) 
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
 
 ### 💻 Languages & Scripting
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=007396) ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
