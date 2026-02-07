@@ -30,8 +30,6 @@ and orchestration.
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=007396) 
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
 
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=007396) ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=003B57)
