@@ -2,8 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=lokifr&color=blueviolet&style=flat-square)
 
 I'm **Lokesh**, a BCA student passionate about **AWS** and **DevOps**. I spend my time building 
-cloud infrastructures, automating deployments, and learning everything I can about containers 
-and orchestration.
+cloud infrastructures, automating deployments...
 
 ---
 
