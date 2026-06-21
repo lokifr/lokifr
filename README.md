@@ -1,7 +1,7 @@
 # Hi there! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=lokifr&color=blueviolet&style=flat-square)
 
-I'm **Lokesh**, a BCA student passionate about **AWS** and **DevOps**. I spend my time building 
+I'm **Lokesh**, a BCA graduate, I'm passionate about **AWS** and **DevOps**. I spend my time building 
 cloud infrastructures, automating deployments...
 
 ---
